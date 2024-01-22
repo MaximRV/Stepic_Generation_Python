@@ -16,7 +16,4 @@
 </div>
 
 <div id="header" align="center">
-<h3>
-Solution
-</h3>
 </div>
