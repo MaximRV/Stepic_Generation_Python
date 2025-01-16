@@ -13,6 +13,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 Кортежи
 =======
 Функции
@@ -23,13 +24,19 @@
 =======
 Строковый тип данных
 >>>>>>> repo-to-merge/main
+=======
+Циклы for и while
+>>>>>>> repo-to-merge/main
 </h2>
 </div>
 
 <div id="header" align="center">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> repo-to-merge/main
 =======
 >>>>>>> repo-to-merge/main
 =======
