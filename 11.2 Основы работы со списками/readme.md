@@ -10,21 +10,10 @@
 </div>
 <div id="header" align="center">
 <h2>
-<<<<<<< HEAD
-<<<<<<< HEAD
-Кортежи
-=======
-Функции
->>>>>>> repo-to-merge/main
-=======
-Списки
->>>>>>> repo-to-merge/main
+Основы работы со списками
 </h2>
 </div>
 
 <div id="header" align="center">
-<<<<<<< HEAD
 
-=======
->>>>>>> repo-to-merge/main
 </div>
