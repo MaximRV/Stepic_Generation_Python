@@ -10,11 +10,7 @@
 </div>
 <div id="header" align="center">
 <h2>
-<<<<<<< HEAD
-Кортежи
-=======
-Функции
->>>>>>> repo-to-merge/main
+14.1 Задачи на программирование
 </h2>
 </div>
 

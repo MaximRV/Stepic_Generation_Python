@@ -10,11 +10,7 @@
 </div>
 <div id="header" align="center">
 <h2>
-<<<<<<< HEAD
-Кортежи
-=======
-Функции
->>>>>>> repo-to-merge/main
+Функции с возвратом значения. Часть 1
 </h2>
 </div>
 
