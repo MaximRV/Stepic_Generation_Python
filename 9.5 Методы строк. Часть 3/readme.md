@@ -10,28 +10,11 @@
 </div>
 <div id="header" align="center">
 <h2>
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-Кортежи
-=======
-Функции
->>>>>>> repo-to-merge/main
-=======
-Списки
->>>>>>> repo-to-merge/main
-=======
-Строковый тип данных
->>>>>>> repo-to-merge/main
+9.5 Методы строк. Часть 3
 </h2>
 </div>
 
 <div id="header" align="center">
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
->>>>>>> repo-to-merge/main
-=======
->>>>>>> repo-to-merge/main
 </div>
+
